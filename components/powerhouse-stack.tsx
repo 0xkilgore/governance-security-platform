@@ -28,7 +28,7 @@ export function PowerhouseStack() {
               <h3 className="text-xl font-bold mb-3">Decentralized Operations</h3>
               <p className="text-gray-400 mb-4">Streamlining Processes for Distributed Organizations</p>
               <Link
-                href="https://www.powerhouse.inc/connect"
+                href="https://decentralized-operations-platform.vercel.app/"
                 className="text-neon hover:underline text-sm flex items-center gap-1"
               >
                 Learn more <span className="text-lg">→</span>
